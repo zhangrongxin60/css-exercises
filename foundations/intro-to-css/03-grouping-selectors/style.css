@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.click,
+.otherclick {
+    font-size: 18px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.click {
+    background-color: black;
+    color: white;
+}
+.otherclick {
+    background-color: yellow;
+}
