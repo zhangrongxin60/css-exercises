@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.container .text {
+    background-color: yellow;
+    color: #E00000;
+    font-size: 20px;
+    text-align: center;
+}
+/* 以下是一些其他可能的后代组合子（descendant combinator）： 
+div p
+div .text
+.container p
+*/
